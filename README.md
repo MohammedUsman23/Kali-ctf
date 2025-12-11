@@ -28,14 +28,6 @@ It is designed to support both offensive security learning and analytical workfl
 
 Due to GitHub’s file-size limitations, the virtual machine is distributed externally as a 6.19 GB OVA file.
 
-📥 Download the Virtual Machine
-
-The OVA package can be downloaded from the link below:
-
-👉 Google Drive: [Insert your drive link here]
-
-Ensure the sharing permissions are set to: “Anyone with the link” → Viewer.
-
 🛠️ Technical Specification
 
 • Base OS: Kali Linux (Customized)
