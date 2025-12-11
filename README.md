@@ -1,3 +1,9 @@
+## Download the Virtual Machine
+
+The OVA file is hosted externally due to GitHub file size limits.
+
+👉 **Download (Google Drive):** https://drive.google.com/file/d/1Q5esHQCsjK_KY49qKydngDstsT0Crt7H/view?usp=drive_link
+
 # Kali-ctf
 A professionally engineered CTF virtual machine built on Kali Linux, designed to simulate real-world vulnerabilities and support hands-on practice in enumeration, exploitation, and privilege escalation.
 Custom Capture The Flag (CTF) Virtual Machine — Kali Linux (OVA)
