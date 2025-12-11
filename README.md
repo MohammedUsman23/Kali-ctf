@@ -8,7 +8,7 @@ A professionally engineered Capture The Flag (CTF) virtual machine built on Kali
 
 The OVA file is hosted externally due to GitHub file size limits.
 
-👉 **Download (Google Drive):** [Click Here](YOUR_GOOGLE_DRIVE_LINK)
+👉 **Download (Google Drive):**  https://drive.google.com/file/d/1Q5esHQCsjK_KY49qKydngDstsT0Crt7H/view?usp=drive_link
 
 ---
 
