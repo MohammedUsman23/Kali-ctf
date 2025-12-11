@@ -1,0 +1,65 @@
+# Kali-CTF — Custom Capture The Flag Virtual Machine
+
+A professionally engineered Capture The Flag (CTF) virtual machine built on Kali Linux, designed to simulate real-world vulnerabilities and offer a safe environment for hands-on cybersecurity training. This VM is ideal for learners who want to practice enumeration, exploitation, privilege escalation, and offensive security techniques.
+
+---
+
+## 📥 Download the Virtual Machine (OVA)
+
+The OVA file is hosted externally due to GitHub file size limits.
+
+👉 **Download (Google Drive):** [Click Here](YOUR_GOOGLE_DRIVE_LINK)
+
+---
+
+## 🔰 Project Overview
+
+This project contains a custom Kali Linux–based CTF virtual machine designed to:
+
+- Provide realistic attack surfaces  
+- Support step-by-step learning for beginners and intermediate learners  
+- Include multiple categories of challenges  
+- Preinstall essential offensive security tools  
+- Offer a fully isolated testing environment
+
+The goal of this VM is to help users understand penetration testing workflow in a structured way.
+
+---
+
+## 🧩 Inside This Repository
+
+This repository includes:
+
+- **Complete documentation**
+- **Challenge descriptions**
+- **Usage guide**
+- **Tooling information**
+- **Network setup instructions**
+
+---
+
+## 🧪 Key Features
+
+• Multiple CTF challenges  
+• Realistic enumeration and exploitation tasks  
+• Privilege escalation scenarios  
+• Preinstalled tools for recon, exploitation, and post-exploitation  
+• Easy import into VirtualBox / VMware  
+• Safe and isolated Host-Only network setup  
+
+---
+
+## 📚 Documentation
+
+- Installation Guide → `/Docs/Installation.md`  
+- Usage Guide → `/Docs/Usage-Guide.md`  
+- Challenge List → `/Challenges/Challenge-List.md`  
+- Tooling Overview → `/Tools/Tooling-Info.md`  
+- Network Setup → `/Configs/Network-Setup.md`  
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.  
+See `LICENSE` for more information.
